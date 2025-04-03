@@ -1,7 +1,7 @@
 
 
 .ensemble {
-    background-color: #333; 
+    background-color: grey; 
     color: white;
     padding: 50px;
     border-radius: 10px;
@@ -51,7 +51,7 @@ h1, h2 {
 h1 {
     font-size: 2.2em;
     text-align: center;
-    color: #ffcc00; 
+    color: yellow; 
 }
 
 h2 {
